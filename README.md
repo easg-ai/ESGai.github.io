@@ -1,4 +1,4 @@
-# ESG-ai.io.github.io
+# ESGai.github.io
 ai getting ahead of reforestation and drought avoidance
 ![image](https://user-images.githubusercontent.com/108437230/208527549-a6f03d92-7c49-4958-a9c0-35893fce22f3.png)
 ![image](https://user-images.githubusercontent.com/108437230/208527572-f6e397a0-28b4-48c3-b515-a300c7293ec1.png)
